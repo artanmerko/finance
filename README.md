@@ -14,12 +14,12 @@ https://finance.cs50.net/
 - CSS (Flexbox) <br>
 - Python<br>
 
-####Testing
+#### Testing
 -To test your code with check50, execute the below.
 
 $ check50 cs50/problems/2022/x/finance
 
-####Submit
+#### Submit
 In your terminal, execute the below to submit your work.
 
 submit50 cs50/problems/2022/x/finance
