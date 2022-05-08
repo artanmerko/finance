@@ -7,7 +7,7 @@ You’re about to implement C$50 Finance, a web app via which you can manage por
 
 Indeed, IEX lets you download stock quotes via their API (application programming interface) using URLs like https://cloud-sse.iexapis.com/stable/stock/nflx/quote?token=API_KEY. Notice how Netflix’s symbol (NFLX) is embedded in this URL; that’s how IEX knows whose data to return. That link won’t actually return any data because IEX requires you to use an API key (more about that in a bit), but if it did, you’d see a response in JSON (JavaScript Object Notation) format like this:
 
-####{
+###{
   "avgTotalVolume": 4329597,
   "calculationPrice": "tops",
   "change": 1.21,
@@ -43,7 +43,7 @@ Indeed, IEX lets you download stock quotes via their API (application programmin
   "week52High": 690.97,
   "week52Low": 463.41,
   "ytdChange": 0.2066202315388457
-}
+}###
 
 ### Built With
 - HTML <br>
