@@ -16,8 +16,8 @@ https://finance.cs50.net/
 
 #### Testing
 To test your code with check50, execute the below.
-*$ check50 cs50/problems/2022/x/finance*
+$ check50 cs50/problems/2022/x/finance
 
 #### Submit
 In your terminal, execute the below to submit your work.
-*submit50 cs50/problems/2022/x/finance*
+submit50 cs50/problems/2022/x/finance
